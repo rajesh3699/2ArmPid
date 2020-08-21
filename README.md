@@ -1,6 +1,7 @@
 # 2ArmPid
 This project was aimed to test and deploy PID control Law on a Two Arm PID Balance. The goal of this project was to level a wooden rod with the help of BLDC motors and propellors.
 This was done to simulate the roll and pitch stability of a Quadcopter.
+![gif of model](2-Arm-Pid.gif?raw=True "Gif of Arm")
 The angle wrt to the horizontal was found out using MPU 9250 by fusing both gyroscope and accelerometer values by using a complimentry filter.
 
 # Result
